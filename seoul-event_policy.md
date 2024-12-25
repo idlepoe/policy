@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the 위이잉모기 app (hereby referred to as "Application") for mobile devices that was created by 이제영 (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the 서울문화행사 app (hereby referred to as "Application") for mobile devices that was created by 이제영 (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
